@@ -95,8 +95,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 - OpenAI for their GPT API.
 - Streamlit for simplifying the development of interactive web apps.
 - SentenceTransformers for efficient embedding generation.
-
----
-
-For issues or feature requests, please contact [Your Name/Team] or submit an issue in the repository.
-
