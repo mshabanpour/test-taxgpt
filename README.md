@@ -22,8 +22,8 @@ Ensure you have the following installed:
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/mshabanpour/test-taxgpt.git
+   cd test-taxgpt
    ```
 
 2. **Set Up a Virtual Environment** (optional but recommended):
@@ -34,7 +34,7 @@ Ensure you have the following installed:
 
 3. **Install Dependencies**:
    ```bash
-   pip install -r requirements.txt
+   pip install -r requirement.txt
    ```
 
 4. **Set OpenAI API Key**:
@@ -51,7 +51,7 @@ Ensure you have the following installed:
 
 1. Start the Streamlit app:
    ```bash
-   streamlit run financial_chatbot_demo.py
+   streamlit run testbot1.py
    ```
 
 2. Open the provided local URL in your browser (e.g., `http://localhost:8501`).
