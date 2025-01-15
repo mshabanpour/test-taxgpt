@@ -1,0 +1,9 @@
+streamlit
+pandas
+PyPDF2
+python-pptx
+sentence-transformers
+faiss-cpu
+openai
+python-dotenv
+neo4j
